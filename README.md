@@ -32,4 +32,5 @@ All Bank and NBFC’s are not able to find out default customers, therefore the 
 
 •	Classification – Logistic Regression, Random Forest, Decision Tree
 
-* Boosting Technique - Adaboost, XGboost
+•	Boosting Technique - Adaboost, XGboost
+
