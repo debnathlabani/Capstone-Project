@@ -14,7 +14,7 @@ All Bank and NBFC’s are not able to find out default customers, therefore the 
 
 * To find out the default customer.
 
-•	Approach
+**Approach**
 
 •	Data Understanding
 
