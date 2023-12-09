@@ -30,4 +30,6 @@ All Bank and NBFC’s are not able to find out default customers, therefore the 
 
 •	Model Optimization
 
-•	Classification – Random Forest, Decision Tree, Naive Bayes
+•	Classification – Logistic Regression, Random Forest, Decision Tree
+
+* Boosting Technique - Adaboost, XGboost
