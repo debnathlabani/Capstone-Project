@@ -34,3 +34,6 @@ All Bank and NBFC’s are not able to find out default customers, therefore the 
 
 •	Boosting Technique - Adaboost, XGboost
 
+# Note: The original dataset file is more than 25 MB. So I am not able to attach here the original dataset.
+
+Thank you!
